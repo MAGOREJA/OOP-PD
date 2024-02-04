@@ -1,0 +1,6 @@
+C:\Users\Ayaan Goreja\source\repos\CalculatorProMax\CalculatorProMax\bin\Debug\CalculatorProMax.exe.config
+C:\Users\Ayaan Goreja\source\repos\CalculatorProMax\CalculatorProMax\bin\Debug\CalculatorProMax.exe
+C:\Users\Ayaan Goreja\source\repos\CalculatorProMax\CalculatorProMax\bin\Debug\CalculatorProMax.pdb
+C:\Users\Ayaan Goreja\source\repos\CalculatorProMax\CalculatorProMax\obj\Debug\CalculatorProMax.csproj.CoreCompileInputs.cache
+C:\Users\Ayaan Goreja\source\repos\CalculatorProMax\CalculatorProMax\obj\Debug\CalculatorProMax.exe
+C:\Users\Ayaan Goreja\source\repos\CalculatorProMax\CalculatorProMax\obj\Debug\CalculatorProMax.pdb

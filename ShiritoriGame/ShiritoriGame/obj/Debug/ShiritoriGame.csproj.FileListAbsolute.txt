@@ -1,0 +1,7 @@
+C:\Users\Ayaan Goreja\source\repos\ShiritoriGame\ShiritoriGame\bin\Debug\ShiritoriGame.exe.config
+C:\Users\Ayaan Goreja\source\repos\ShiritoriGame\ShiritoriGame\bin\Debug\ShiritoriGame.exe
+C:\Users\Ayaan Goreja\source\repos\ShiritoriGame\ShiritoriGame\bin\Debug\ShiritoriGame.pdb
+C:\Users\Ayaan Goreja\source\repos\ShiritoriGame\ShiritoriGame\obj\Debug\ShiritoriGame.csprojAssemblyReference.cache
+C:\Users\Ayaan Goreja\source\repos\ShiritoriGame\ShiritoriGame\obj\Debug\ShiritoriGame.csproj.CoreCompileInputs.cache
+C:\Users\Ayaan Goreja\source\repos\ShiritoriGame\ShiritoriGame\obj\Debug\ShiritoriGame.exe
+C:\Users\Ayaan Goreja\source\repos\ShiritoriGame\ShiritoriGame\obj\Debug\ShiritoriGame.pdb
