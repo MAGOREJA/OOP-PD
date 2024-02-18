@@ -1,0 +1,7 @@
+C:\Users\Ayaan Goreja\source\repos\BANKapp\BANKapp\bin\Debug\BANKapp.exe.config
+C:\Users\Ayaan Goreja\source\repos\BANKapp\BANKapp\bin\Debug\BANKapp.exe
+C:\Users\Ayaan Goreja\source\repos\BANKapp\BANKapp\bin\Debug\BANKapp.pdb
+C:\Users\Ayaan Goreja\source\repos\BANKapp\BANKapp\obj\Debug\BANKapp.csprojAssemblyReference.cache
+C:\Users\Ayaan Goreja\source\repos\BANKapp\BANKapp\obj\Debug\BANKapp.csproj.CoreCompileInputs.cache
+C:\Users\Ayaan Goreja\source\repos\BANKapp\BANKapp\obj\Debug\BANKapp.exe
+C:\Users\Ayaan Goreja\source\repos\BANKapp\BANKapp\obj\Debug\BANKapp.pdb

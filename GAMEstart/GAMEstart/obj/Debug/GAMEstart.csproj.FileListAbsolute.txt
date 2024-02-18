@@ -1,0 +1,7 @@
+C:\Users\Ayaan Goreja\source\repos\GAMEstart\GAMEstart\bin\Debug\GAMEstart.exe.config
+C:\Users\Ayaan Goreja\source\repos\GAMEstart\GAMEstart\bin\Debug\GAMEstart.exe
+C:\Users\Ayaan Goreja\source\repos\GAMEstart\GAMEstart\bin\Debug\GAMEstart.pdb
+C:\Users\Ayaan Goreja\source\repos\GAMEstart\GAMEstart\obj\Debug\GAMEstart.csprojAssemblyReference.cache
+C:\Users\Ayaan Goreja\source\repos\GAMEstart\GAMEstart\obj\Debug\GAMEstart.csproj.CoreCompileInputs.cache
+C:\Users\Ayaan Goreja\source\repos\GAMEstart\GAMEstart\obj\Debug\GAMEstart.exe
+C:\Users\Ayaan Goreja\source\repos\GAMEstart\GAMEstart\obj\Debug\GAMEstart.pdb
